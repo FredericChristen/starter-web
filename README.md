@@ -15,3 +15,7 @@ This is a simple web procjet, deployment can be on any web server or even local 
 
 ## Hot To Contribute
 tbd
+
+### Copyright
+2023 Git.Training
+
